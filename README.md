@@ -1,23 +1,40 @@
-<div align="center">
-  <img 
-    src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" 
-    width="100%" 
-    style="max-width:100%; height:auto;"
-  />
-</div>
+<h1 align="center">Hi 👋, I'm Atheerium</h1>
+<h3 align="center">A passionate full-stack developer from Algeria</h3>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="animated" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=atheerium&label=Profile%20views&color=0e75b6&style=flat" alt="atheerium" /> </p>
 
-> **👨‍💻 About Me** <img height="40" alt="Atheer" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atheerium" alt="atheerium" /></a> </p>
 
-- 🔭 I'm **[atheerium](https://github.com/atheerium)**
-- 🐛 A passionate developer building tools across **Rust**, **Go**, **Python**, and **TypeScript**. I love crafting lightweight, practical CLI tools and web applications that solve real problems.
-- 🌱 Currently working on **[whisp-rs](https://github.com/atheerium/whisp-rs)** — lightweight voice-to-text dictation for Linux (Wayland/COSMIC)
-- 🔭 Also building **[decoright-react](https://github.com/atheerium/decoright-react)** — a React-based decoration tool
-- 🛠️ Other projects: **[markitdown-cli](https://github.com/atheerium/markitdown-cli)**, **[eye-guard](https://github.com/atheerium/eye-guard)**, **[mcp-skill-maker](https://github.com/atheerium/mcp-skill-maker)**, **[athan-cli](https://github.com/atheerium/athan-cli)**
-- 🌱 I'm currently exploring **systems programming, MCP tooling, and AI-assisted workflows**
-- 👯 I'm looking to collaborate on **open-source projects** and interesting CLI tools
-- ⚡ Fun fact: **It works on my machine😃!**
+- 🔭 I’m currently working on [Voxtype](https://github.com/atheerium/voxtype)
+
+- 🌱 I’m currently learning **MCP, RAG, and Agent Orchestration**
+
+- 👨‍💻 All of my projects are available at [https://atheerium.github.io/projects/](https://atheerium.github.io/projects/)
+
+- 📝 I regularly write articles on [https://atheerium.github.io/](https://atheerium.github.io/)
+
+- 💬 Ask me about **Anything**
+
+- 📫 How to reach me **anes201ham@gmail.com**
+
+- ⚡ Fun fact **I am not a Bot**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/atheerium" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="atheerium" height="30" width="40" /></a>
+<a href="https://twitter.com/atheerium" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atheerium" height="30" width="40" /></a>
+<a href="https://fb.com/atheerium" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="atheerium" height="30" width="40" /></a>
+<a href="https://instagram.com/atheerium" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atheerium" height="30" width="40" /></a>
+<a href="https://hashnode.com/atheerium" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="atheerium" height="30" width="40" /></a>
+<a href="https://medium.com/atheerium" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="atheerium" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/anes201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anes201" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/atheerium"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="atheerium" /></a><a href="https://ko-fi.com/atheerium"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="atheerium" /></a></p><br><br>
 
 </div>
   
@@ -88,17 +105,13 @@
 
 <table>
 <tr>
-<td width="33%">
+<td width="50%">
 
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=atheerium&layout=donut&theme=transparent&hide_border=true&langs_count=8&border_radius=20&title_color=00FF41&text_color=C9D1D9&bg_color=00000000" height="200" />
 
 </td>
-<td width="33%">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=atheerium&theme=transparent" />
-
-</td>
-<td width="33%">
+<td width="50%">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=atheerium&theme=transparent&utc_offset=5.5" />
 
@@ -108,143 +121,3 @@
 </p>
 
 </div>
-
-  <div align="center">
-    <img
-      src="https://github-trophies.vercel.app/?username=atheerium&theme=discord&no-frame=true&no-bg=true&margin-w=4"
-    />
-  </div>
-
-<div align="center">
-  <img
-    src="https://ghchart.rshah.org/atheerium"
-    alt="GitHub Contribution Chart"
-  />
-</div>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="left" width="50%">
-
-
-## 🐾 Git Animals   <img height="40" alt="Atheer" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
-<img src="https://render.gitanimals.org/farms/atheerium" width="500"/>
-
-</td>
-
-<td align="center" width="50%">
-
-
-## 🎮 Fun Zone  <img height="40" alt="Atheer" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
-
-Take a break and explore some fun projects!
-
-🟦🟥🟩🟨🟪🟦🟨<br>
-🟥🟩🟪🟦🟩🟨🟥<br>
-🟩🟨🟥🟦🟪🟩🟦<br>
-🟪🟦🟨🟥🟩🟦🟨<br>
-🟦🟨🟪🟩🟥🟪🟩<br><br>
-
-Check out my repos for more 👉 [atheerium Repos](https://github.com/atheerium?tab=repositories)
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-### ✨ Fun Zone <img height="40" alt="Atheer" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card"/>
-</div>
-
-## Random Developer Quote 💡 <img height="40" alt="Atheer" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
-
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
-
-> ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-<div align=center>
-
-### 📫 **Connect with Me** <img height="40" alt="Atheer" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atheerium)
-
----
-# My Code Kingdom 😂
-  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atheerium/atheerium/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/atheerium/atheerium/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/atheerium/atheerium/output/github-snake.svg" />
-</picture>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=00C4CC&width=435&lines=Atheer+%F0%9F%98%81+-+Developer+%F0%9F%92%BB;Rust+%2B+Go+%2B+Python+%2B+TS+%F0%9F%9A%80;Building+CLI+Tools+%26+Web+Apps+%E2%9A%A1;Voice-to-Text+on+Linux+%F0%9F%8E%A4;MCP+Tooling+%26+AI+Workflows+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%8C%8D;Just+a+Curious+Dev+on+a+Mission+%F0%9F%8C%9F;" />
-</p>
-
-[![Atheer's gitartwork](gitartwork.svg)](https://github.com/atheerium)
-
-## Featured Projects ⚡
-
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/atheerium/whisp-rs">
-        <strong>whisp-rs</strong><br/>
-        <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" />
-        <br/><em>Voice-to-text for Linux</em>
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/atheerium/decoright-react">
-        <strong>decoright-react</strong><br/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-        <br/><em>React decoration tool</em>
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/atheerium/markitdown-cli">
-        <strong>markitdown-cli</strong><br/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-        <br/><em>Microsoft Markitdown CLI wrapper</em>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/atheerium/eye-guard">
-        <strong>eye-guard</strong><br/>
-        <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" />
-        <br/><em>Eye protection tool</em>
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/atheerium/mcp-skill-maker">
-        <strong>mcp-skill-maker</strong><br/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-        <br/><em>MCP skill generator</em>
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/atheerium/athan-cli">
-        <strong>athan-cli</strong><br/>
-        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
-        <br/><em>Prayer time CLI tool</em>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<div><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" width="35" height="35"> Contributors</h2></div>
-
-I extend my heartfelt gratitude for any invaluable contribution to my projects! Your efforts play a significant role in improving and elevating these repositories to greater heights.
