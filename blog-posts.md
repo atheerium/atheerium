@@ -1,0 +1,3 @@
+- [Turning repetitive work into software](https://atheerium.com/blog/turning-repetitive-work-into-software) - Mar 10, 2026
+- [Finding the highest-leverage path before building](https://atheerium.com/blog/finding-highest-leverage-path) - Feb 3, 2026
+- [Designing reliable systems over isolated features](https://atheerium.com/blog/designing-reliable-systems) - Jan 15, 2026
