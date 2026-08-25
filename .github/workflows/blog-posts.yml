@@ -31,10 +31,12 @@ jobs:
       - name: Update README with blog posts
         run: |
           BLOG_POSTS=$(cat blog-posts.md)
-          awk -v start="<!-- BLOG-POSTS:START -->" -v end="<!-- BLOG-POSTS:END -->" -v insert="$BLOG_POSTS" '
-          /start/ { print; print insert; next }
-          /end/ { if (!inserted) { print insert; inserted=1 }; print; next }
-          { print }
+          echo "$BLOG_POSTS" > /tmp/blog-insert.md
+          awk '
+          BEGIN { skip = 0 }
+          /<!-- BLOG-POSTS:START -->/ { print; while ((getline line < "/tmp/blog-insert.md") > 0) print line; close("/tmp/blog-insert.md"); skip = 1; next }
+          /<!-- BLOG-POSTS:END -->/ { skip = 0; print; next }
+          { if (!skip) print }
           ' README.md > README.md.tmp && mv README.md.tmp README.md
 
       - name: Commit and push changes

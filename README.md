@@ -33,6 +33,11 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [The State of Bug Bounty in 2026: AI Agents Are Finding Everything and Breaking Everything](https://atheerium.github.io/articles/state-of-bug-bounty-2026/) - Jul 22, 2026
+- [Domain Afternic Listing vs. Cold Outreach -- Which Actually Works?](https://atheerium.github.io/articles/afternic-vs-outreach/) - Jul 21, 2026
+- [AI Agents Are Starting to Spend Money — Here's What That Means for Domain Investors](https://atheerium.github.io/articles/ai-agents-buying-domains/) - Jul 21, 2026
+- [How I Use AI Agents as My Coding Partner (Not Just a Chatbot)](https://atheerium.github.io/articles/ai-agents-coding-partner/) - Jul 21, 2026
+- [AI Agents for Developers: What I Actually Use](https://atheerium.github.io/articles/ai-agents-for-devs/) - Jul 21, 2026
 <!-- BLOG-POSTS:END -->
 
 <h3 align="left">Languages and Tools:</h3>
