@@ -1,0 +1,69 @@
+name: Update Blog Posts
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install rss-parser
+
+      - name: Fetch and parse blog posts
+        id: blog
+        run: |
+          const Parser = require('rss-parser');
+          const parser = new Parser();
+
+          (async () => {
+            const feed = await parser.parseURL('https://atheerium.github.io/rss.xml');
+            const items = feed.items.slice(0, 5);
+            let markdown = '';
+            for (const item of items) {
+              const date = new Date(item.isoDate).toLocaleDateString('en-US', {
+                year: 'numeric',
+                month: 'short',
+                day: 'numeric'
+              });
+              markdown += `- [${item.title}](${item.link}) - ${date}\n`;
+            }
+            const fs = require('fs');
+            fs.writeFileSync('blog-posts.md', markdown.trim());
+          })();
+
+      - name: Update README with blog posts
+        run: |
+          BLOG_POSTS=$(cat blog-posts.md)
+          awk -v start="<!-- BLOG-POSTS:START -->" -v end="<!-- BLOG-POSTS:END -->" -v insert="$BLOG_POSTS" '
+          /start/ { print; print insert; next }
+          /end/ { if (!inserted) { print insert; inserted=1 }; print; next }
+          { print }
+          ' README.md > README.md.tmp && mv README.md.tmp README.md
+
+      - name: Commit and push changes
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add README.md
+          if ! git diff --cached --quiet; then
+            git commit -m "Update latest blog posts"
+            git push
+          else
+            echo "No changes to README.md"
+          fi
