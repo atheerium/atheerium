@@ -39,31 +39,28 @@ jobs:
                 month: 'short',
                 day: 'numeric'
               });
-              markdown += `- [${item.title}](${item.link}) - ${date}\\n`;
+              markdown += `- [${item.title}](${item.link}) - ${date}\n`;
             }
-            // Write to a file
-            const fs = require('fs');
-            fs.writeFileSync('blog-posts.md', markdown.trim());
+            // Output as step output
+            const output = markdown.trim();
+            console.log(`::set-output name=result::${output}`);
           })();
         shell: node
 
       - name: Update README with blog posts
         run: |
-          # Read the generated markdown
-          BLOG_POSTS=$(cat blog-posts.md)
-          # Replace the section between the markers
-          sed -i '/<!-- BLOG-POSTS:START -->/,/<!-- BLOG-POSTS:END -->/{/<!-- BLOG-POSTS:START -->/a\
+          BLOG_POSTS="${{ steps.blog.outputs.result }}"
+          # Replace content between the markers
+          sed -i '/<!-- BLOG-POSTS:START -->/,/<!-- BLOG-POSTS:END -->/{/<!-- BLOG-POSTS:START -->/{n;:/<!-- BLOG-POSTS:END -->/!d;};/<!-- BLOG-POSTS:END -->/{n;:/<!-- BLOG-POSTS:START -->/!d;};/<!-- BLOG-POSTS:START -->/a\
 '"$BLOG_POSTS"'
           d;}' README.md
-          # Actually, we need to delete the old content and insert new.
-          # Let's use a more robust method with awk.
-          awk -v start="<!-- BLOG-POSTS:START -->" -v end="<!-- BLOG-POSTS:END -->" -v insert="$BLOG_POSTS" '
-          /start/ { print; print insert; next }
-          /end/ { if (!printed) { print insert; printed=1 }; print; next }
-          !/start/ && !/end/ { print }
-          ' README.md > README.md.tmp && mv README.md.tmp README.md
-        env:
-          BLOG_POSTS: ${{ steps.blog.outputs.result || '' }}
+        # Alternative simpler approach: delete everything between markers and insert new content
+        # But let's use a more reliable method with awk
+        awk -v start="<!-- BLOG-POSTS:START -->" -v end="<!-- BLOG-POSTS:END -->" -v insert="$BLOG_POSTS" '
+        /start/ { print; print insert; next }
+        /end/ { if (!printed) { print insert; printed=1 }; print; next }
+        !/start/ && !/end/ { print }
+        ' README.md > README.md.tmp && mv README.md.tmp README.md
 
       - name: Commit and push changes
         run: |
