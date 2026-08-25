@@ -1,0 +1,22 @@
+{
+  "name": "atheerium",
+  "version": "1.0.0",
+  "description": "<!-- ============================================================   GITHUB PROFILE README — TEMPLATE ============================================================   Instructions:   1. Fork this repo or copy this file to your own      <username>/<username> repo.   2. Rename to README.md.   3. Replace ALL {{VARIABLES}} with your own info.   4. Remove or comment out sections you don't need.   5. Commit and push — your profile will update automatically.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atheerium/atheerium.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/atheerium/atheerium/issues"
+  },
+  "homepage": "https://github.com/atheerium/atheerium#readme",
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}
