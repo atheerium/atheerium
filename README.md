@@ -33,9 +33,11 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
-- [Turning repetitive work into software](https://atheerium.com/blog/turning-repetitive-work-into-software) - Mar 10, 2026
-- [Finding the highest-leverage path before building](https://atheerium.com/blog/finding-highest-leverage-path) - Feb 3, 2026
-- [Designing reliable systems over isolated features](https://atheerium.com/blog/designing-reliable-systems) - Jan 15, 2026
+- [Freelancer vs Agency Pricing 2026: When to Hire Each](https://atheerium.com/blog/freelance-vs-agency-pricing-2026) - Aug 20, 2026
+- [How to Set Freelance Rates That Don't Leave Money on the Table](https://atheerium.com/blog/how-to-set-freelance-rates-2026) - Aug 18, 2026
+- [Domain Valuation Myths 2026: 7 Rules That Actually Predict Sale Price](https://atheerium.com/blog/domain-valuation-myths-2026) - Aug 14, 2026
+- [Domain Flipping Reality Check: What 3 Years of Data Actually Shows](https://atheerium.com/blog/domain-flipping-reality-check) - Aug 12, 2026
+- [How I Built Omnipost (And Why It Made $24K in 6 Months)](https://atheerium.com/blog/how-i-built-omnipost) - Aug 10, 2026
 <!-- BLOG-POSTS:END -->
 
 <h3 align="left">Languages and Tools:</h3>
