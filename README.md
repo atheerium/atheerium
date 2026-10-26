@@ -33,11 +33,11 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
-- [Freelancer vs Agency Pricing 2026: When to Hire Each](https://atheerium.com/blog/freelance-vs-agency-pricing-2026) - Aug 20, 2026
-- [How to Set Freelance Rates That Don't Leave Money on the Table](https://atheerium.com/blog/how-to-set-freelance-rates-2026) - Aug 18, 2026
-- [Domain Valuation Myths 2026: 7 Rules That Actually Predict Sale Price](https://atheerium.com/blog/domain-valuation-myths-2026) - Aug 14, 2026
-- [Domain Flipping Reality Check: What 3 Years of Data Actually Shows](https://atheerium.com/blog/domain-flipping-reality-check) - Aug 12, 2026
-- [How I Built Omnipost (And Why It Made $24K in 6 Months)](https://atheerium.com/blog/how-i-built-omnipost) - Aug 10, 2026
+- [Custom ERP or off-the-shelf: how to decide before you pay for either](https://www.atheerium.com/en/articles/custom-erp-or-off-the-shelf) - Oct 25, 2026
+- [When a 200-line script is the whole automation you need](https://www.atheerium.com/en/articles/automation-200-lines) - Jul 21, 2026
+- [When building a small tool makes more sense than buying one](https://www.atheerium.com/en/articles/build-your-own-tools) - Jul 21, 2026
+- [A hundred pages without a hundred templates](https://www.atheerium.com/en/articles/building-100-page-site) - Jul 21, 2026
+- [Custom software or a subscription: how to compare them honestly](https://www.atheerium.com/en/articles/custom-app-vs-saas) - Jul 21, 2026
 <!-- BLOG-POSTS:END -->
 
 <h3 align="left">Languages and Tools:</h3>
