@@ -34,10 +34,10 @@
 
 <!-- BLOG-POSTS:START -->
 - [Custom ERP or off-the-shelf: how to decide before you pay for either](https://www.atheerium.com/en/articles/custom-erp-or-off-the-shelf) - Oct 25, 2026
+- [Why Most Algerian Small Businesses Don't Need an E-commerce Website](https://www.atheerium.com/en/articles/algeria-ecommerce-website) - Jul 21, 2026
 - [When a 200-line script is the whole automation you need](https://www.atheerium.com/en/articles/automation-200-lines) - Jul 21, 2026
 - [When building a small tool makes more sense than buying one](https://www.atheerium.com/en/articles/build-your-own-tools) - Jul 21, 2026
 - [A hundred pages without a hundred templates](https://www.atheerium.com/en/articles/building-100-page-site) - Jul 21, 2026
-- [Custom software or a subscription: how to compare them honestly](https://www.atheerium.com/en/articles/custom-app-vs-saas) - Jul 21, 2026
 <!-- BLOG-POSTS:END -->
 
 <h3 align="left">Languages and Tools:</h3>
