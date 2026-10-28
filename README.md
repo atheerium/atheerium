@@ -33,11 +33,11 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
-- [Custom ERP or off-the-shelf: how to decide before you pay for either](https://www.atheerium.com/en/articles/custom-erp-or-off-the-shelf) - Oct 25, 2026
-- [Why Most Algerian Small Businesses Don't Need an E-commerce Website](https://www.atheerium.com/en/articles/algeria-ecommerce-website) - Jul 21, 2026
-- [When a 200-line script is the whole automation you need](https://www.atheerium.com/en/articles/automation-200-lines) - Jul 21, 2026
-- [When building a small tool makes more sense than buying one](https://www.atheerium.com/en/articles/build-your-own-tools) - Jul 21, 2026
-- [A hundred pages without a hundred templates](https://www.atheerium.com/en/articles/building-100-page-site) - Jul 21, 2026
+- [AI will not fix data you do not trust](https://www.atheerium.com/en/articles/ai-on-untrusted-data) - Oct 28, 2026
+- [AI order processing: where a model helps, and where it must not](https://www.atheerium.com/en/articles/ai-order-processing) - Oct 28, 2026
+- [Airtable or Notion: a database, a wiki, and knowing which one you need](https://www.atheerium.com/en/articles/airtable-vs-notion) - Oct 28, 2026
+- [Arabic, French or both: choosing the language of your website](https://www.atheerium.com/en/articles/arabic-french-or-both) - Oct 28, 2026
+- [Publishing articles that get found: what to do after the site is built](https://www.atheerium.com/en/articles/articles-that-get-found) - Oct 28, 2026
 <!-- BLOG-POSTS:END -->
 
 <h3 align="left">Languages and Tools:</h3>
