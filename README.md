@@ -33,11 +33,11 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Letting AI answer customers: where the line is](https://www.atheerium.com/en/articles/ai-answering-customers) - Oct 28, 2026
 - [AI will not fix data you do not trust](https://www.atheerium.com/en/articles/ai-on-untrusted-data) - Oct 28, 2026
 - [AI order processing: where a model helps, and where it must not](https://www.atheerium.com/en/articles/ai-order-processing) - Oct 28, 2026
 - [Airtable or Notion: a database, a wiki, and knowing which one you need](https://www.atheerium.com/en/articles/airtable-vs-notion) - Oct 28, 2026
 - [Arabic, French or both: choosing the language of your website](https://www.atheerium.com/en/articles/arabic-french-or-both) - Oct 28, 2026
-- [Publishing articles that get found: what to do after the site is built](https://www.atheerium.com/en/articles/articles-that-get-found) - Oct 28, 2026
 <!-- BLOG-POSTS:END -->
 
 <h3 align="left">Languages and Tools:</h3>
