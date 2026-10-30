@@ -33,11 +33,11 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
-- [Letting AI answer customers: where the line is](https://www.atheerium.com/en/articles/ai-answering-customers) - Oct 28, 2026
-- [AI will not fix data you do not trust](https://www.atheerium.com/en/articles/ai-on-untrusted-data) - Oct 28, 2026
-- [AI order processing: where a model helps, and where it must not](https://www.atheerium.com/en/articles/ai-order-processing) - Oct 28, 2026
-- [Airtable or Notion: a database, a wiki, and knowing which one you need](https://www.atheerium.com/en/articles/airtable-vs-notion) - Oct 28, 2026
-- [Arabic, French or both: choosing the language of your website](https://www.atheerium.com/en/articles/arabic-french-or-both) - Oct 28, 2026
+- [A spreadsheet that became a database: choosing when to move](https://www.atheerium.com/en/articles/airtable-alternatives) - Oct 29, 2026
+- [Algolia or Typesense: search you host or search you rent](https://www.atheerium.com/en/articles/algolia-vs-typesense) - Oct 29, 2026
+- [The stack a freelancer should learn, and the one that pays](https://www.atheerium.com/en/articles/best-tech-stack-freelancers) - Oct 29, 2026
+- [Build or buy: taking payments online](https://www.atheerium.com/en/articles/build-vs-buy-payment-gateway) - Oct 29, 2026
+- [Running a business when the bank account is the obstacle](https://www.atheerium.com/en/articles/business-without-bank-account) - Oct 29, 2026
 <!-- BLOG-POSTS:END -->
 
 <h3 align="left">Languages and Tools:</h3>
