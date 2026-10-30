@@ -33,11 +33,11 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
-- [A spreadsheet that became a database: choosing when to move](https://www.atheerium.com/en/articles/airtable-alternatives) - Oct 29, 2026
-- [Algolia or Typesense: search you host or search you rent](https://www.atheerium.com/en/articles/algolia-vs-typesense) - Oct 29, 2026
-- [The stack a freelancer should learn, and the one that pays](https://www.atheerium.com/en/articles/best-tech-stack-freelancers) - Oct 29, 2026
-- [Build or buy: taking payments online](https://www.atheerium.com/en/articles/build-vs-buy-payment-gateway) - Oct 29, 2026
-- [Running a business when the bank account is the obstacle](https://www.atheerium.com/en/articles/business-without-bank-account) - Oct 29, 2026
+- [Appointments in a clinic: three failures nobody plans for](https://www.atheerium.com/en/articles/clinic-appointments-software) - Oct 30, 2026
+- [Supplying a building site: quotes and part-deliveries](https://www.atheerium.com/en/articles/construction-supplier-software) - Oct 30, 2026
+- [Typing it in or importing it: two ways to get data into a system](https://www.atheerium.com/en/articles/data-entry-forms-vs-import) - Oct 30, 2026
+- [Renting equipment: availability is the only number that matters](https://www.atheerium.com/en/articles/equipment-rental-software) - Oct 30, 2026
+- [Sending a technician: scheduling is a promise about time](https://www.atheerium.com/en/articles/field-service-scheduling) - Oct 30, 2026
 <!-- BLOG-POSTS:END -->
 
 <h3 align="left">Languages and Tools:</h3>
