@@ -33,11 +33,11 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Business expense control in Algeria: where the money actually goes](https://www.atheerium.com/en/articles/business-expense-control-algeria) - Oct 30, 2026
 - [Appointments in a clinic: three failures nobody plans for](https://www.atheerium.com/en/articles/clinic-appointments-software) - Oct 30, 2026
 - [Supplying a building site: quotes and part-deliveries](https://www.atheerium.com/en/articles/construction-supplier-software) - Oct 30, 2026
-- [Typing it in or importing it: two ways to get data into a system](https://www.atheerium.com/en/articles/data-entry-forms-vs-import) - Oct 30, 2026
-- [Renting equipment: availability is the only number that matters](https://www.atheerium.com/en/articles/equipment-rental-software) - Oct 30, 2026
-- [Sending a technician: scheduling is a promise about time](https://www.atheerium.com/en/articles/field-service-scheduling) - Oct 30, 2026
+- [What a consulting contract should cover in Algeria](https://www.atheerium.com/en/articles/consulting-contract-algeria) - Oct 30, 2026
+- [Complaint tracking: a record before it is a conversation](https://www.atheerium.com/en/articles/customer-complaints-tracking) - Oct 30, 2026
 <!-- BLOG-POSTS:END -->
 
 <h3 align="left">Languages and Tools:</h3>
